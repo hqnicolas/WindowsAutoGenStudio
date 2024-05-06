@@ -1,5 +1,5 @@
 # Make Sure Your Ollama Server is Runing
-- Inside Models You will need to change Ollama Server URL
+- Inside Models and Agents You will need to change Ollama Server URL
 ```
 "base_url":"http://10.1.1.1/v1"
 ```
