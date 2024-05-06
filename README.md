@@ -1,4 +1,4 @@
-- AutoGen Studio
+# AutoGen Studio for windows
 -  [ Install Miniconda](https://docs.anaconda.com/free/miniconda/)
 - Inside .Bat You will need to change yourusername
 - Run [Install.bat](https://github.com/hqnicolas/WindowsAutoGenStudio/blob/main/install.bat)
