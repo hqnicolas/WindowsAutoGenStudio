@@ -6,3 +6,4 @@
 ```
 "base_url":"https://server.ollama.ia/v1"
 ```
+- Inside .Bat You will need to change yourusername
