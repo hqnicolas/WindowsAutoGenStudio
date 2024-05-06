@@ -1,11 +1,11 @@
 # AutoGen Studio for windows
 - [Install Miniconda](https://docs.anaconda.com/free/miniconda/)
+- Download and Unzip This Repo.
 - Inside all .Bat Files You will need to change yourusername
 
 ```
 call C:\Users\myusername\miniconda3\Scripts\activate.bat base
 ```
-Download and Unzip This Repo
 - Run [Install.bat](https://github.com/hqnicolas/WindowsAutoGenStudio/blob/main/install.bat)
 - Make Sure [Your Ollama Server](https://github.com/hqnicolas/OllamaDockerCasaOs) is Runing
 - Inside Models and Agents .Json files, You will need to change [Ollama Server](https://github.com/hqnicolas/OllamaDockerCasaOs) URL:
