@@ -1,6 +1,6 @@
 # AutoGen Studio for windows
 - [Install Miniconda](https://docs.anaconda.com/free/miniconda/)
-- Inside .Bat You will need to change yourusername
+- Inside all .Bat Files You will need to change yourusername
 
 ```
 call C:\Users\myusername\miniconda3\Scripts\activate.bat base
