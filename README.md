@@ -18,7 +18,7 @@ call C:\Users\myusername\miniconda3\Scripts\activate.bat base
 ```
 
 - Run [start.bat](https://github.com/hqnicolas/WindowsAutoGenStudio/blob/main/start.bat)
-- Add files to WebUi
+- Add Model files to WebUi
 
 
 
