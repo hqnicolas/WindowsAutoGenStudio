@@ -1,7 +1,7 @@
 # [AutoGen](https://www.youtube.com/watch?v=kj8nVBI_oiM) Studio for windows
 
 <p align="center">
-  <img src="models/microsoft.png" alt="Devika Logo" width="700">
+  <img src="models/microsoft.png" alt="Devika Logo" width="250">
 </p>
 
 **[microsoft/autogen](https://github.com/microsoft/autogen)** **[Doc](https://github.com/microsoft/autogen/tree/main/samples/apps/autogen-studio)**
