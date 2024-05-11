@@ -1,6 +1,6 @@
-# AutoGen Studio for windows
+# [AutoGen](https://www.youtube.com/watch?v=kj8nVBI_oiM) Studio for windows
 
-**[microsoft/autogen](https://github.com/microsoft/autogen)**
+**[microsoft/autogen](https://github.com/microsoft/autogen)** **[Doc](https://github.com/microsoft/autogen/tree/main/samples/apps/autogen-studio)**
 
 AutoGen Studio is an AutoGen-powered AI app (user interface) to help you rapidly prototype AI agents, enhance them with skills, compose them into workflows and interact with them to accomplish tasks. It is built on top of the AutoGen framework, which is a toolkit for building AI agents.
 
